@@ -1,0 +1,10 @@
+{
+  "asar": true,
+  "files": [
+    "**/*",
+    "!**/WEB-INF{,/**}"
+  ],
+  "directories": {
+    "output": "./dist"
+  }
+}
